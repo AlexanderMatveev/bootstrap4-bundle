@@ -47,8 +47,8 @@ bin/console assets:install --symlink web
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
-<link href="{{ asset('bundles/alexandermatveevbootstrap4/lib/bootstrap.min.css') }}" rel="stylesheet">
-<script type="text/javascript" src="{{ asset('bundles/alexandermatveevbootstrap4/lib/bootstrap.min.js') }}"></script>
+<link href="{{ asset('bundles/alexandermatveevbootstrap4/lib/css/bootstrap.min.css') }}" rel="stylesheet">
+<script type="text/javascript" src="{{ asset('bundles/alexandermatveevbootstrap4/lib/js/bootstrap.min.js') }}"></script>
 ```
 
 ## Licenses

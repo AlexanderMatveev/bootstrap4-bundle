@@ -5,6 +5,12 @@ Bootstrap 4 bundle for Symfony 3+
 
 Bootstrap 4.0.0
 
+## Requirements
+
+1) jQuery https://github.com/AlexanderMatveev/jquery-bundle
+
+2) Popper.js https://github.com/AlexanderMatveev/popper-bundle
+
 ## Installation
 
 ``` bash
